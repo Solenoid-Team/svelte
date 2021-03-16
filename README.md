@@ -4,7 +4,9 @@ Requirements: [Node.js] (https://nodejs.org)
 
 ```bash
 git clone https://github.com/Solenoid-Team/svelte.git
+
 cd svelte
+
 npm install
 ```
 
